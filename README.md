@@ -55,7 +55,7 @@ Follow these steps to set up Snatch locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/snatch.git
+git clone https://github.com/asher-not-king/snatch.git
 cd snatch
 ```
 
